@@ -1,3 +1,6 @@
+# ES7 React/Redux/GrapnQL/React Native snippets is a super cool extension!! simply tupe "rafce" in your empty component file, hit return, and it will automatically create your component naming it by the title! 
+
+# npm graphql-request allows you to send GraphQL queries with a single line of code!
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
