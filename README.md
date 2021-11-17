@@ -1,4 +1,4 @@
-# https://youtu.be/HYv55DhgTuA left off at 101:29
+# https://youtu.be/HYv55DhgTuA left off at 1:05:50
 
 
 # ES7 React/Redux/GrapnQL/React Native snippets is a super cool extension!! simply tupe "rafce" in your empty component file, hit return, and it will automatically create your component naming it by the title! 
