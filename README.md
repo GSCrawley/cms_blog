@@ -1,3 +1,6 @@
+# https://youtu.be/HYv55DhgTuA left off at 101:29
+
+
 # ES7 React/Redux/GrapnQL/React Native snippets is a super cool extension!! simply tupe "rafce" in your empty component file, hit return, and it will automatically create your component naming it by the title! 
 
 # npm graphql-request allows you to send GraphQL queries with a single line of code!
