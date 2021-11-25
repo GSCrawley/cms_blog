@@ -1,4 +1,6 @@
-# https://youtu.be/HYv55DhgTuA left off at 1:05:50
+# https://youtu.be/HYv55DhgTuA left off at 1:11:39
+
+### to do next: fix the size and position of cards
 
 
 # ES7 React/Redux/GrapnQL/React Native snippets is a super cool extension!! simply tupe "rafce" in your empty component file, hit return, and it will automatically create your component naming it by the title! 
