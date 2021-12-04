@@ -42,7 +42,7 @@ return result.postsConnection.edges;
 
 export const getCategories = async () => {
     const query = gql`
-      query GetGategories {
+      query GetCategories {
           categories {
             name
             slug
